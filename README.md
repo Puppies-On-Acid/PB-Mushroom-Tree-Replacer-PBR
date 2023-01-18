@@ -1,4 +1,10 @@
 # PB-Mushroom-Tree-Replacer-PBR
 OpenMW 0.48+  PBR and Normal maps for PB Mushroom Tree Replacer
 
-This requires OpenMW 0.48 or newer and Zesterer's OpenMW core shaders https://github.com/zesterer/openmw-shaders
+Requirements:
+
+OpenMW 0.48 or newer
+
+https://github.com/zesterer/openmw-shaders
+
+https://www.nexusmods.com/morrowind/mods/45350 (grab the main file only)
